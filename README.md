@@ -1,4 +1,4 @@
-# Costs-and-Benefits-of-authentication-advice 
+# Costs and Benefits of authentication advice 
 
 
 This repository contains supplementary material related to the ACM Transactions on Privacy and Security publication "Costs and Benefits of Authentication Advice". 
