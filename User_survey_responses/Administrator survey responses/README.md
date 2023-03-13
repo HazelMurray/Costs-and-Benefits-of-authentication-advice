@@ -1,4 +1,4 @@
-# authentication_costs_admin_study
+# Authentication Costs - Administrator survey responses
 
 These are the reponses from our administrator study as collected between the 15th and 29th October.
 
