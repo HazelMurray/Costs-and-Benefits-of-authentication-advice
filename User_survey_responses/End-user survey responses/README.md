@@ -1,6 +1,6 @@
-# authentication_costs_user_study
+# Authentication Costs - End-user survey responses
 
-These are the reponses from our user study as collected between the 15th and 18th October. 
+These are the reponses from our end-user study as collected between the 15th and 18th October. 
 
 There were 5 surveys in total for users. 
 There was some over lap between the guestions.
